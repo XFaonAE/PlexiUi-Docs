@@ -1,11 +1,12 @@
 ## Docs
 Welcome to the **PlexiUI** documentation!
+Below is a list of all the different sections of the docs. Good luck!
 
 ## Table Of Contents
  - [Getting Started](/gettingStarted/gettingStarted.md)
      - [About This Framework](/gettingStarted/aboutThisFramework.md)
-     - [Installation](/gettingStarted/Installation.md)
-     - [Basic Setup](/gettingStarted/BasicSetup.md)
+     - [Installation](/gettingStarted/installation.md)
+     - [Basic Setup](/gettingStarted/basicSetup.md)
   
  - [Distribution](/distribution/Distribution.md)
      - [Packaging Your App](/distribution/packagingYourApp.md)
