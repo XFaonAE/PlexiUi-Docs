@@ -20,4 +20,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
  - Next: [Basic Setup](gettingStarted/basicSetup.md)
- - Prev: [Home](README.md)
+ - Prev: [Home](README.md) 
