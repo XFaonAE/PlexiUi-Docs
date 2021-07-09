@@ -51,13 +51,32 @@ plexiUi.setOptions({
 ```
 
 #### Mode
+`options.mode`
 ```ts
 {
     mode: { ... }
 }
 ```
 Set the mode for the script
-Type | Desc
----- | ----
-"dev" | Run the script in development mode
-"pack" | Run the script for packaging
+Type | Key | Desc
+---- | --- | ----
+`"dev" | "pack"` | `options.mode` | Run the script in in a task mode
+
+#### Skip
+`options.skip`
+
+```ts
+{
+    skip: {
+        { ... }
+    }
+}
+```
+Skip tasks for the tasks runner
+Type | Key | Desc
+---- | --- | ----
+boolean | `options.skip.renderer` | Skip any tasks for the renderer
+boolean | `options.skip.window` | Skip any tasks for the window
+
+ - Next: []()<br />
+ - Prev: [Basic Setup](./basicSetup.md)
