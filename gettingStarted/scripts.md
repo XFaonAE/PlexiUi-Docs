@@ -50,7 +50,7 @@ plexiUi.setOptions({
 });
 ```
 
-#### Mode
+### Mode
 `options.mode`
 ```ts
 {
@@ -62,7 +62,7 @@ Type | Key | Desc
 ---- | --- | ----
 `"dev" | "pack"` | `options.mode` | Run the script in in a task mode
 
-#### Skip
+### Skip
 `options.skip`
 
 ```ts
