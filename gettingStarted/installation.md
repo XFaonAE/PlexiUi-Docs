@@ -1,3 +1,3 @@
 ## Installation
 
-prev: [Installation](./installation.md)
+prev: [Basic Setup](./basicSetup.md)
