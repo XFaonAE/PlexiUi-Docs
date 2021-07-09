@@ -5,5 +5,5 @@ Inside is everything you need to build the perfect cross-platform desktop applic
 
 Alright, enough intro. Let's get strait to it now!
 
-Next: [Basic Setup](./basicSetup.md) <br />
-Prev: [Home](../README.md)
+ - Next: [Basic Setup](./basicSetup.md) <br />
+ - Prev: [Home](../README.md)
