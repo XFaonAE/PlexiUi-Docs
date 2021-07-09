@@ -75,8 +75,8 @@ Type | Key | Desc
 Skip tasks for the tasks runner
 Type | Key | Desc
 ---- | --- | ----
-boolean | `options.skip.renderer` | Skip any tasks for the renderer
-boolean | `options.skip.window` | Skip any tasks for the window
+`boolean` | `options.skip.renderer` | Skip any tasks for the renderer
+`boolean` | `options.skip.window` | Skip any tasks for the window
 
  - Next: []()<br />
  - Prev: [Basic Setup](./basicSetup.md)
