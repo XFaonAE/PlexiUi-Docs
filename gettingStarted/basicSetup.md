@@ -25,7 +25,7 @@ The framework is now ready to be started! Now let's start our app.
 ```bash
 npm run app:dev
 ```
-This command will start a development server and soon launch the app.
+This command will start a development server and soon launch the app. Congrats! You just created your own PlexiUI application.
 
- - Next: [Unknown](./unknown.md) <br />
+ - Next: [Scripts](./scripts.md) <br />
  - Prev: [About This Framework](./aboutThisFramework.md)
